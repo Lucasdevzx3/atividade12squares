@@ -1,0 +1,111 @@
+body {
+    background-color: lightgray;
+}
+.square1{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.square2{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 11vh;
+    left: 0;
+}
+.square3{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 22vh;
+    left: 0;
+}
+.square4{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 0;
+    left: 11vh;
+}
+.square5{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 11vh;
+    left: 11vh;
+}
+.square6{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 0vh;
+    left: 22vh;
+}
+.square7{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.square8{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 11vh;
+    right: 0;
+}
+.square9{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 22vh;
+    right: 0;
+}
+.square10{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 0;
+    right: 11vh;
+}
+.square11{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 11vh;
+    right: 11vh;
+}
+.square12{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 0;
+    right: 22vh;
+}
